@@ -15,19 +15,20 @@
   },
   "dependencies": {
     "classnames": "^2.2.5",
-    "codemirror": "^5.18.2",
+    "codemirror": "^5.25.2",
     "lodash.debounce": "^4.0.8"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
     "happiness": "^7.1.2",
-    "react": "^15.3.1",
-    "react-dom": "^15.3.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "prop-types":"^15.5.8",
     "react-component-gulp-tasks": "^0.7.7"
   },
   "peerDependencies": {
-    "react": ">=0.14 <16",
-    "react-dom": ">=0.14 <16"
+    "react": "^0.14.9 || >=15.3.0",
+    "react-dom": "^0.14.9 || >=15.3.0"
   },
   "browserify-shim": {
     "react": "global:React"
