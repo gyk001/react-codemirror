@@ -1,17 +1,17 @@
 {
-  "name": "react-codemirror",
-  "version": "0.3.0",
+  "name": "gyk001-react-codemirror",
+  "version": "0.4.0",
   "description": "Codemirror",
   "main": "lib/Codemirror.js",
   "author": "Jed Watson",
   "license": "MIT",
-  "homepage": "https://github.com/JedWatson/react-codemirror",
+  "homepage": "https://github.com/gyk001/react-codemirror",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JedWatson/react-codemirror.git"
+    "url": "https://github.com/gyk001/react-codemirror.git"
   },
   "bugs": {
-    "url": "https://github.com/JedWatson/react-codemirror/issues"
+    "url": "https://github.com/gyk001/react-codemirror/issues"
   },
   "dependencies": {
     "classnames": "^2.2.5",
